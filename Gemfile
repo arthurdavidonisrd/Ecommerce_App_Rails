@@ -38,6 +38,7 @@ group :development, :test do
   gem "pry-rails"
   gem "factory_bot_rails"
   gem "rspec-rails"
+  gem "rubocop"
   gem "brakeman", require: false
 
   gem "rubocop-rails-omakase", require: false
