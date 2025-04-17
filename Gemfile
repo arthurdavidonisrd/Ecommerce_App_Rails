@@ -24,7 +24,7 @@ gem "solid_cache"
 gem "solid_queue"
 gem "solid_cable"
 gem "devise"
-
+gem "simple_form"
 gem "bootsnap", require: false
 
 gem "kamal", require: false
